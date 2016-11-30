@@ -1,5 +1,6 @@
 /* Chapter 2.1 - Insertion Sort */
 // Requires compilation with C++11
+// Needs error checking for edge cases and for when size of input is 0 or 1
 
 #include <iostream>
 #include <vector>
